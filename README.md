@@ -9,7 +9,7 @@ Contact: xiaomengli@cau.edu.cn Any questions or discussion are welcome!
 ## Updates
 + [2024.09.05] We have initialized the repo. The related resources will be released after the manuscript is accepted.
 -----
-![Dataset](assets/dataset.png)
+<img src="assets/dataset.png" alt="Dataset" width="400" height="300">
 
 ##DataSet
 
